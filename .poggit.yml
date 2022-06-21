@@ -1,5 +1,5 @@
 branches:
-  - pm/virion
+  - main
 projects:
   arrayutils:
     model: virion
