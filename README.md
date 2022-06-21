@@ -51,7 +51,7 @@ You can use this library with poggit.
 This project is licensed under the terms of the **MIT** license  
 
 
-[poggit-status-badge]: https://poggit.pmmp.io/ci.shield/presentkim-pm/arrayutils/arrayutils/v?style=for-the-badge
+[poggit-status-badge]: https://poggit.pmmp.io/ci.badge/presentkim-pm/arrayutils/arrayutils/v?style=for-the-badge
 [stars-badge]: https://img.shields.io/github/stars/presentkim-pm/arrayutils.svg?style=for-the-badge
 [license-badge]: https://img.shields.io/github/license/presentkim-pm/arrayutils.svg?style=for-the-badge
 
