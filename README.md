@@ -55,7 +55,7 @@ This project is licensed under the terms of the **MIT** license
 [stars-badge]: https://img.shields.io/github/stars/presentkim-pm/arrayutils.svg?style=for-the-badge
 [license-badge]: https://img.shields.io/github/license/presentkim-pm/arrayutils.svg?style=for-the-badge
 
-[poggit-url]: https://poggit.org/packages/presentkim/arrayutils
+[poggit-url]: https://poggit.pmmp.io/ci/presentkim-pm/arrayutils/arrayutils
 [stars-url]: https://github.com/presentkim-pm/arrayutils/stargazers
 [issues-url]: https://github.com/presentkim-pm/arrayutils/issues
 [license-url]: https://github.com/presentkim-pm/arrayutils/blob/main/LICENSE
