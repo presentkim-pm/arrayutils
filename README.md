@@ -1,8 +1,7 @@
 <!-- PROJECT BADGES -->
 <div align="center">
 
-[![Packagist Status][packagist-status-badge]][packagist-url]
-[![Packagist Downloads][packagist-downloads-badge]][packagist-url]
+[![Poggit Status][poggit-status-badge]][poggit-url]
 [![Stars][stars-badge]][stars-url]
 [![License][license-badge]][license-url]
 
@@ -11,12 +10,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://raw.githubusercontent.com/presentkim/arrayutils/main/assets/icon.png" alt="Logo" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/presentkim-pm/arrayutils/main/assets/icon.png" alt="Logo" width="80" height="80">
   <h3>arrayutils</h3>
   <p align="center">
     An library that provides a method to fancy manipulate an array!
 
-[View in Packagist][packagist-url] · [Report a bug][issues-url] · [Request a feature][issues-url]
+[View in Poggit][poggit-url] · [Report a bug][issues-url] · [Request a feature][issues-url]
 
   </p>
 </div>
@@ -37,12 +36,12 @@ For a detailed description, [Click here (GitBook)](https://arrayutils.docs.prese
 -----
   
 ## :package: Installation
-You can use this library with composer.  
-- Go to [**Packagist**](https://packagist.org/packages/presentkim/arrayutils)
+You can use this library with poggit.  
+- Go to [**Poggit**](https://poggit.pmmp.io/ci/presentkim-pm/arrayutils/~)
 
-> **Note** for [Pocketmine][pmmp-url] plugin developer  
-> You can use this library with poggit  
-> - Go to [**Poggit**](https://poggit.pmmp.io/ci/presentkim-pm/arrayutils/~)
+> **Note** for modern PHP developer  
+> You can use this library with composer.
+> - Go to [**Packagist**](https://packagist.org/packages/presentkim/arrayutils) 
 
 -----
 
@@ -52,14 +51,13 @@ You can use this library with composer.
 This project is licensed under the terms of the **MIT** license  
 
 
-[packagist-status-badge]: https://poser.pugx.org/presentkim/arrayutils/v?style=for-the-badge
-[packagist-downloads-badge]: https://poser.pugx.org/presentkim/arrayutils/downloads?style=for-the-badge
-[stars-badge]: https://img.shields.io/github/stars/presentkim/arrayutils.svg?style=for-the-badge
-[license-badge]: https://img.shields.io/github/license/presentkim/arrayutils.svg?style=for-the-badge
+[poggit-status-badge]: https://poggit.pmmp.io/ci.shield/presentkim-pm/arrayutils/arrayutils/v?style=for-the-badge
+[stars-badge]: https://img.shields.io/github/stars/presentkim-pm/arrayutils.svg?style=for-the-badge
+[license-badge]: https://img.shields.io/github/license/presentkim-pm/arrayutils.svg?style=for-the-badge
 
-[packagist-url]: https://packagist.org/packages/presentkim/arrayutils
-[stars-url]: https://github.com/presentkim/arrayutils/stargazers
-[issues-url]: https://github.com/presentkim/arrayutils/issues
-[license-url]: https://github.com/presentkim/arrayutils/blob/main/LICENSE
+[poggit-url]: https://poggit.org/packages/presentkim/arrayutils
+[stars-url]: https://github.com/presentkim-pm/arrayutils/stargazers
+[issues-url]: https://github.com/presentkim-pm/arrayutils/issues
+[license-url]: https://github.com/presentkim-pm/arrayutils/blob/main/LICENSE
 
 [pmmp-url]: https://github.com/pmmp/Pocketmine-MP
